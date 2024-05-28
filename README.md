@@ -78,7 +78,7 @@ Reveals the correct answer for an MCQ question with id = X.
 1. Record a demo video showing the acceptance test listed above.
 1. Capture a single screenshot showing the application after "incorrect answer pressed" step and place it directly in the `submission` folder in your repository.
 1. Do NOT create subfolders in the `submission` folder. Please add all of your files directly in the `submission` folder.
-1. Run `npm run submit` and follow the instructions.
+1. Run `yarn submit` and follow the instructions.
 
 ## Evaluation Criteria
 
