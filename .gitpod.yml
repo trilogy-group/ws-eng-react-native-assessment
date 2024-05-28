@@ -4,10 +4,10 @@ image:
 tasks:
     - name: App
       init: |
-          npm ci
+          yarn install
           gp env "EXPO_PACKAGER_PROXY_URL=$(gp url 8081)"
           eval $(gp env -e)
-      command: npm start -- --go
+      command: yarn start -- --go
 
 ports:
     - port: 8081
