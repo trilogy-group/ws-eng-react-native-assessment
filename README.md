@@ -1,6 +1,6 @@
 # React Native Assessment
 
-This repository contains the scaffolding for creating a cross-platform application for the React Native assessment. 
+This repository contains the scaffolding for creating a cross-platform application for the React Native Crossover assessment. 
 
 Please checkout the branch corresponding to the assessment you are taking:
 
