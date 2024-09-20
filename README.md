@@ -6,7 +6,9 @@ In this assessment, you will design and implement a key feature of our "TeachTap
 
 ## Assessment Steps
 
-1. [Start the code in Gitpod](#running-in-gitpod), and take a look at [the feature requirements](#feature-for-you-section) and [the grading criteria](#evaluation-criteria) described below. Please do NOT fork this repository. You will share your code changes as a git diff at the end.
+1. [Start the code in Gitpod](#running-in-gitpod), and take a look at [the feature requirements](#feature-for-you-section) and [the grading criteria](#evaluation-criteria) described below. 
+   - Please do NOT fork this repository. You will share your code changes as a git diff at the end.
+   - When writing code, make sure to be on the `rwa/cross-platform-mobile-v6` branch. Pull it regularly to ensure you have the latest changes from the remote.
 2. Implement the feature described below, while following the quality bar listed below.
 3. Record a demo video (maximum 1 minute) in which you show the acceptance test listed below. We recommend using [Loom](https://www.loom.com/) as it is free, easy to set up, and works on all platforms. 
 4. [Submit your work](#submitting-your-work) by following the instructions below.
